@@ -69,7 +69,20 @@ h1 {
     border-color: rgb(13, 6, 124);
 }
 
+#startOver {
+   
+    font-size: 48px;
+   
 
+}
+
+#startOver:hover { 
+    background-color: silver;
+    border: 1px solid;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-color: rgb(13, 6, 124);
+}
 
 
 
