@@ -20,3 +20,7 @@ Brush up on your movie knowledge and enjoy.
 ### Contributions
 
 Trivia questions were taken from https://triviachamp.com
+
+### Link To Website:
+
+https://joann675.github.io/TriviaGame/
